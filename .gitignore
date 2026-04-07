@@ -1,0 +1,8 @@
+venv/
+pj2_env/
+__pycache__/
+*.pyc
+.env
+uploads/
+*.pdf
+.DS_Store
